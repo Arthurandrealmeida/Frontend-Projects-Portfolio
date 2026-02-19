@@ -1,134 +1,78 @@
-# Projetos
-Vários mini projetos que eu fiz em um único lugar, Alguns para eu me divertir e outros para treinar.
+# 🌐 Web Projects Collection
+
+This repository is a curated collection of complete web projects I developed while studying front-end development and user interface design.
+
+Each project is fully finished, responsive and deployed, representing my evolution building real websites from scratch.
 
 ---
 
+## 🎯 Purpose of this Repository
+
+Instead of keeping dozens of small repositories, this repo gathers my main **complete website projects** in one place as a portfolio of front-end work.
+
+The focus of these projects includes:
+
+- Modern UI and animations
+- Responsive layouts
+- Landing pages and institutional websites
+- Interactive components
+- Realistic website structures
+
+---
+
+## 🚀 Projects
+
 <details>
-<summary><strong>1. Website Scope</strong></summary>
+<summary><strong>1. Project Name</strong></summary>
 
-### Website Scope  
-Site institucional simples com layout moderno em HTML e CSS.
+### Description
+Short explanation of the website.
 
-<img src="https://github.com/user-attachments/assets/20b3728e-d5b7-4ca5-b50c-a41f3ad4f291" width="600">
+🔗 Live demo: LINK_AQUI
+
+<img src="SCREENSHOT" width="600">
 
 </details>
 
 ---
 
 <details>
-<summary><strong>2. Website Portfólio</strong></summary>
+<summary><strong>2. Project Name</strong></summary>
 
-### Website Portfólio  
-Modelo de portfólio responsivo para desenvolvedores.
+### Description
+Short explanation of the website.
 
-<img src="https://github.com/user-attachments/assets/88dd7984-021c-40af-a5c4-56d52f7d3420" width="600">
+🔗 Live demo: LINK_AQUI
 
-</details>
-
----
-
-<details>
-<summary><strong>3. Responsive Menu</strong></summary>
-
-### Responsive Menu  
-Menu responsivo com animação para navegação mobile.
-
-<img src="https://github.com/user-attachments/assets/0bca6ef3-4009-4cdb-ac06-d2fc735f3d62" width="600">
+<img src="SCREENSHOT" width="600">
 
 </details>
 
 ---
 
 <details>
-<summary><strong>4. Display Grid Layout</strong></summary>
+<summary><strong>3. Project Name</strong></summary>
 
-### Display Grid Layout  
-Treino de layout utilizando CSS Grid para organizar elementos.
+### Description
+Short explanation of the website.
 
-<img src="https://github.com/user-attachments/assets/506b2985-c78c-40f7-a27a-01ee927b2332" width="600">
+🔗 Live demo: LINK_AQUI
 
-</details>
-
----
-
-<details>
-<summary><strong>5. Login Screen</strong></summary>
-
-### Login Screen  
-Tela moderna de login utilizando HTML e CSS.
-
-<img src="https://github.com/user-attachments/assets/acfb901a-03dc-456a-872c-d12222307274" width="600">
+<img src="SCREENSHOT" width="600">
 
 </details>
 
 ---
 
-<details>
-<summary><strong>6. Scroll Animation</strong></summary>
+## 🛠️ Technologies Used
 
-### Scroll Animation  
-Animações ativadas conforme o usuário faz scroll pela página.
-
-<img src="https://github.com/user-attachments/assets/c5e0d696-0a9f-41a1-b98f-e982d78787d5" width="600">
-
-</details>
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
 
 ---
 
-<details>
-<summary><strong>7. 3D Card</strong></summary>
+## 👨‍💻 Author
 
-### 3D Card Hover
-Efeito 3D em cards utilizando transformações CSS.
-
-<img src="https://github.com/user-attachments/assets/2a08ea65-66ff-458a-9d83-fb268b3e6b17" width="600">
-
-</details>
-
----
-
-<details>
-<summary><strong>8. Breathing Animation</strong></summary>
-
-### Breathing Animation  
-Animação suave que simula um movimento de respiração.
-
-<img src="https://github.com/user-attachments/assets/871d98ac-269c-4826-aa9d-f32ef04059af" width="600">
-
-</details>
-
----
-
-<details>
-<summary><strong>9. Cup Animation</strong></summary>
-
-### Cup Animation  
-Animação de preenchimento usando CSS puro.
-
-<img src="https://github.com/user-attachments/assets/d046969c-d7f3-457e-b7e9-55045e2fdcf9" width="600">
-
-</details>
-
----
-
-<details>
-<summary><strong>10. 3D Christmas Tree</strong></summary>
-
-### arvore de natal 3D
-arvore de natal em 3d em html e css apenas.
-
-<img width="1173" height="791" alt="{C3A06E47-E30A-4C3E-BB1B-6E35E47DF665}" src="https://github.com/user-attachments/assets/7446d4b1-b4de-46a4-b33e-048993a54274" width="600">
-
-</details>
-
----
-
-<details>
-<summary><strong>11. lights Christmas Tree</strong></summary>
-
-### arvore de natal 
-arvore de natal animada em html e css.
-
-<img width="1143" height="847" alt="{0CFC787E-7F79-4EBA-A0F6-C9B3B21FFEAE}" src="https://github.com/user-attachments/assets/da35c3e7-4e9d-4219-85de-11a80f575092" width="600">
-
-</details>
+Arthur Andre Almeida Santos
