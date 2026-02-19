@@ -30,7 +30,7 @@ Headphones Website using GSAP animation
 
 <img src="Assets/audira.gif" width="800">
 
-<img src="SCREENSHOT" width="600">
+<img src="{B1830533-DAB1-40DD-ABAF-9298939433E7}.png" width="600">
 
 </details>
 
