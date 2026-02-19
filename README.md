@@ -23,10 +23,10 @@ The focus of these projects includes:
 ## 🚀 Projects
 
 <details>
-<summary><strong>1. Project Name</strong></summary>
+<summary><strong>1. Audira</strong></summary>
 
 ### Description
-Short explanation of the website.
+Headphones Website using GSAP animation
 
 🔗 Live demo: LINK_AQUI
 
