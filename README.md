@@ -28,7 +28,7 @@ The focus of these projects includes:
 ### Description
 Headphones Website using GSAP animation
 
-<img src="assets/Design sem nome.gif" width="800">
+<img src="Assets/audira.gif" width="800">
 
 <img src="SCREENSHOT" width="600">
 
