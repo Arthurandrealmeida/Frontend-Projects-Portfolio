@@ -69,6 +69,8 @@ Short explanation of the website.
 - HTML
 - CSS
 - JavaScript
+- React
+- Tailwind
 - GitHub Pages
 
 ---
