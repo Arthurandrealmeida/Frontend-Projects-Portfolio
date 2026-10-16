@@ -37,14 +37,14 @@ Headphones Website using GSAP animation
 ---
 
 <details>
-<summary><strong>2. Project Name</strong></summary>
+<summary><strong>2. LEGEND Tuning</strong></summary>
 
 ### Description
-Short explanation of the website.
+A cinematic concept website for a tuning studio, featuring a GSAP-powered Supra transformation from black to orange, dramatic lighting, and editorial details.
 
-🔗 Live demo: LINK_AQUI
+<img src="Assets/legend-tuning-motion.gif" width="640" alt="Animated preview of the Supra transforming from black to orange">
 
-<img src="SCREENSHOT" width="600">
+<img src="Assets/legend-tuning-cover.jpg" width="800" alt="LEGEND Tuning cinematic Supra cover image">
 
 </details>
 
